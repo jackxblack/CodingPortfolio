@@ -1,0 +1,22 @@
+1st working prototype in Unity3D:
+https://www.youtube.com/watch?v=UjDtCxsKGVw
+
+1st version of the prototype moved to Unreal Engine 4:
+https://www.youtube.com/watch?v=_x0Kwl8H8Wk
+
+Prototype upgraded with dynamic target and static obstacle avoidance:
+https://www.youtube.com/watch?v=E3iZi1HB6gI
+
+Prototype upgraded with nearest dynamic target selection and dynamic obstacle avoidance:
+https://www.youtube.com/watch?v=BTfSKq3dcWU
+
+1st iteration of character combat with target switching and unreachable target handling:
+https://www.youtube.com/watch?v=ZJ_jKjU4ztM
+
+1st iteration of strategic team building and character placement:
+https://www.youtube.com/watch?v=lFAVVR_Ukh0
+
+Subsequent upgrades with various featurers added, described in the videos themselves:
+https://www.youtube.com/watch?v=y_weBLJAs1k
+https://www.youtube.com/watch?v=X41p-2vgCAA
+https://www.youtube.com/watch?v=ki6g2mo9BUc&t=38s
