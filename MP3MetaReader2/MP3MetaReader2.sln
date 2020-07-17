@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3MetaReader2", "MP3MetaReader2.csproj", "{B582B26C-3B0A-4FC2-A7C9-CB933713783B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B582B26C-3B0A-4FC2-A7C9-CB933713783B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B582B26C-3B0A-4FC2-A7C9-CB933713783B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B582B26C-3B0A-4FC2-A7C9-CB933713783B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B582B26C-3B0A-4FC2-A7C9-CB933713783B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2BEF21-8E0C-48F5-81ED-3D32497BDEE7}
+	EndGlobalSection
+EndGlobal
